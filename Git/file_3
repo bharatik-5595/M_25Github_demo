@@ -1,3 +1,19 @@
-Hi
-My FirstName is Bharati
-My LastName is Katyal
+TASK 1
+
+--> Create a repository
+
+1) Create a folder named GitPractice
+2) Open the folder in terminal
+3) Initialize the git repository
+4) Check status
+
+
+--> Create files
+
+1) Create the following files:
+
+student.txt
+marks.txt
+http://demo.py
+
+2) Check the repository status
