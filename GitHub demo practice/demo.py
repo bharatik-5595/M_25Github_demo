@@ -1,1 +1,1 @@
-This is trial rungit
+print("This is trial run")
