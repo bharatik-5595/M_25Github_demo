@@ -1,0 +1,1 @@
+Calculation of amount is 20000
