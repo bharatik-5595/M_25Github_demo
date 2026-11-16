@@ -1,1 +1,2 @@
-Calculation of amount is 20000
+Modify
+Now the updated amount is 30000
